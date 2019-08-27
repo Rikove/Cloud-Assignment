@@ -38,7 +38,6 @@
                 <div class="login100-pic js-tilt" data-tilt>
                       <img src="images/Customer-Supprt.png" alt="IMG">
                 </div>
-
                 <form class="login100-form validate-form">
                     <span class="login100-form-title">
                         ĐĂNG NHẬP QUẢN TRỊ WEBSITE
@@ -72,11 +71,6 @@
                     </span>
                     <a class="txt2" href="/tim-lai-mat-khau.html">
                         Tài khoản / mật khẩu?
-                    </a>
-                </div>
-                <div class="text-center p-t-135">
-                    <a class="txt2" href="#">
-                        2019 <i class="fa fa-copyright" aria-hidden="true"></i> Võ Trường | Design by TruongBinIT
                     </a>
                 </div>
                 </form>
@@ -196,6 +190,4 @@
     }
    </script>
 </body>
-
 </html>
-<!--THANK FOR WATCHING <3-->

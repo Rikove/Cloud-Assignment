@@ -74,11 +74,6 @@
                         Tài khoản / mật khẩu?
                     </a>
                 </div>
-                <div class="text-center p-t-135">
-                    <a class="txt2" href="#">
-                        2019 <i class="fa fa-copyright" aria-hidden="true"></i> Võ Trường | Design by TruongBinIT
-                    </a>
-                </div>
                 </form>
             </div>
         </div>
@@ -110,11 +105,6 @@
         if (username == "admin" && password == "123456789") {
             swal("Thành Công!", "Bạn Đã Đăng Nhập Với Tư Cách Admin", "success");
             window.location = "custommer.html";
-            return true;
-        }
-        if(username == "votruong" && password == "truongbin") {
-            swal("Thành Công!", "Bạn Đã Đăng Nhập Với Tư Cách Quyền Do Admin Cấp", "success");
-            window.location = "custommer.html"
             return true;
         }
         //Nếu không nhập gì mà nhấn đăng nhập thì sẽ báo lỗi
