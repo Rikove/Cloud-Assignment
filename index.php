@@ -94,20 +94,9 @@
         //Set 1 Admin ảo để đăng nhập quản trị
         if (username == "admin" && password == "123456789") {
             swal("Thành Công!", "Bạn Đã Đăng Nhập Với Tư Cách Admin", "success");
-            window.location = "custommer.html";
+            window.location = "custommer.php";
             return true;
         }
-        if(username == "votruong" && password == "truongbin") {
-            swal("Thành Công!", "Bạn Đã Đăng Nhập Với Tư Cách Quyền Do Admin Cấp", "success");
-            window.location = "custommer.html"
-            return true;
-        }
-        //Nếu không nhập gì mà nhấn đăng nhập thì sẽ báo lỗi
-        if (username == "" && password == "") {
-            swal("Bạn Chưa Nhập Thông Tin!", "Vui Lòng Kiểm Tra Lại", "warning");
-            return false;
-        }
-        //Nếu không nhập tài khoản sẽ báo lỗi
         if (username == null || username == "") {
             swal("Bạn Chưa Nhập Tài Khoản", "Vui Lòng Kiểm Tra Tài Khoản", "error");
             return false;
