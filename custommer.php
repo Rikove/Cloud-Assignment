@@ -187,21 +187,7 @@
                 </tr>
             </thead>
             <tbody>
-                    <td>Võ Trường</td>
-                    <td>Nam</td>
-                    <td>15/03/2000</td>
-                    <td>Thanhhoa</td>
-                    <td>Admin</td>
-                    <td>
-                        <a class="add" title="Lưu Lại" data-toggle="tooltip"><i class="fa fa-floppy-o"
-                                aria-hidden="true"></i></a>
-                        <a class="edit" title="Sửa" data-toggle="tooltip"><i class="fa fa-pencil"
-                                aria-hidden="true"></i></a>
-                        <a class="delete" title="Xóa" data-toggle="tooltip"><i class="fa fa-trash-o"
-                                aria-hidden="true"></i></a>
-                    </td>
-
-                    <td>Linh</td>
+                    <td>Lin</td>
                     <td>Nam</td>
                     <td>04/05/1999</td>
                     <td>Hanoi</td>
