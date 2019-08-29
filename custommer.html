@@ -200,6 +200,8 @@
                         <a class="delete" title="Xóa" data-toggle="tooltip"><i class="fa fa-trash-o"
                                 aria-hidden="true"></i></a>
                     </td>
+                </tr>
+                </tr>
 
                     <td>Linh</td>
                     <td>Nam</td>
